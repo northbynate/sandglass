@@ -1,0 +1,1 @@
+g++ main.cpp population.cpp individual.cpp locus.cpp -o sandglass.sim -Ofast -std=c++11 -fopenmp
